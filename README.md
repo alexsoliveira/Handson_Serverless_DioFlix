@@ -1,2 +1,2 @@
 # Handson_Serverless_DioFlix
-Desafio Criando um Gerenciador de Catálogos da Netflix com Azure Functions e Banco de Dados
+Desafio Handson DIO Criando um Gerenciador de Catálogos da Netflix com Azure Functions e Banco de Dados
